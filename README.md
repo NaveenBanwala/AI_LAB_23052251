@@ -1,15 +1,7 @@
 # AI_LAB_23052251
 This repository contains implementations of various Artificial Intelligence algorithms and problems completed as part of AI Lab coursework.
 
-
-
-# AI Lab (Artificial Intelligence Lab)
-
-This repository contains implementations of various Artificial Intelligence algorithms and problems completed as part of AI Lab coursework.
-
----
-
-## 📌 Topics Covered
+##  Topics Covered
 
 ### 🔹 Lab 1–3: Basic Python & Problem Solving
 - String operations (vowel/consonant count, palindrome, etc.)
