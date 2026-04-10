@@ -1,0 +1,16 @@
+1. WAP that removes all duplicate elements from a list without using set() and
+preserves the original order.
+2. WAP to rotate a list to the right by k positions, where k is an integer provided as input
+using list.
+3. Given a dictionary where the keys are student names and the values are lists of
+scores, WAP to calculate the average score for each student and return it as a
+dictionary.
+4. WAP to count the frequency of each character in a given string and store the result in
+a dictionary.
+5. WAP to find the first non-repeating character in a string. If all characters repeat,
+return “None”.
+6. WAP that takes a dictionary where keys are employee names and values are their
+respective salaries. Return the top 3 employees with the highest salaries in
+descending order. If there are ties, sort by name alphabetically.
+7. WAP to find the longest substring of a given string where all characters are unique.
+Return both the substring and its length.
